@@ -1,0 +1,2 @@
+1713546389.135202019s 1 https://dandiarchive.s3.amazonaws.com/zarr/ef6b21c6-4617-453f-b1e2-d046df7b8c9a/acquisition/ElectricalSeries/data/1017/162?versionId=k6xLczt3UuPErG4oZSBzxw61WvW6UqVP
+1713546389.139383402s 1 https://api.dandiarchive.org/api/zarr/ef6b21c6-4617-453f-b1e2-d046df7b8c9a/files?prefix=acquisition%2FElectricalSeries%2Fdata%2F1017%2F162&download=true
